@@ -1,5 +1,8 @@
 {
-  "version": "2.60",
-  "download_url": "https://github.com/icedemon2000/IceDemon-Gallery-Grabber-Releases/releases/download/v2.60/Icedemons-Gallery-Grabber-v2.60.zip",
-  "sha256": "4151d488186e57b8c4e777b4f646026047976aef2b84a5da6fa34cef9613c95b"
+    "version":  "2.6.19",
+    "download_url":  "https://github.com/icedemon2000/IceDemon-Gallery-Grabber-Releases/releases/download/v2.6.19/Icedemon_s_Gallery_Grabber_v2.6.19.zip",
+    "sha256":  "fdf3d261d0276edaf665e2f27b5b8278222855f111ef4526922a8d662356d3d6",
+    "notes":  "IceDemon\u0027s Gallery Grabber v2.6.19",
+    "asset_name":  "Icedemon_s_Gallery_Grabber_v2.6.19.zip",
+    "published_at_utc":  "2026-08-30T23:22:53.0360453Z"
 }
