@@ -1,7 +1,7 @@
 <!-- github-publisher:start -->
 # IceDemon's Gallery Grabber
 
-**Latest release:** v2.6.23
+**Latest release:** v2.6.30
 
 [Download the latest release](https://github.com/icedemon2000/IceDemon-Gallery-Grabber-Releases/releases/latest)
 
